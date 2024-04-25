@@ -1,0 +1,56 @@
+C:\Users\jayde\Desktop\.Net\practicalapps\northwind.entitymodels.sqlite\bin\Debug\net8.0\northwind.entitymodels.sqlite.deps.json
+C:\Users\jayde\Desktop\.Net\practicalapps\northwind.entitymodels.sqlite\bin\Debug\net8.0\northwind.entitymodels.sqlite.dll
+C:\Users\jayde\Desktop\.Net\practicalapps\northwind.entitymodels.sqlite\bin\Debug\net8.0\northwind.entitymodels.sqlite.pdb
+C:\Users\jayde\Desktop\.Net\practicalapps\northwind.entitymodels.sqlite\obj\Debug\net8.0\northwind.entitymodels.sqlite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayde\Desktop\.Net\practicalapps\northwind.entitymodels.sqlite\obj\Debug\net8.0\northwind.entitymodels.sqlite.AssemblyInfoInputs.cache
+C:\Users\jayde\Desktop\.Net\practicalapps\northwind.entitymodels.sqlite\obj\Debug\net8.0\northwind.entitymodels.sqlite.AssemblyInfo.cs
+C:\Users\jayde\Desktop\.Net\practicalapps\northwind.entitymodels.sqlite\obj\Debug\net8.0\northwind.entitymodels.sqlite.csproj.CoreCompileInputs.cache
+C:\Users\jayde\Desktop\.Net\practicalapps\northwind.entitymodels.sqlite\obj\Debug\net8.0\northwind.entitymodels.sqlite.dll
+C:\Users\jayde\Desktop\.Net\practicalapps\northwind.entitymodels.sqlite\obj\Debug\net8.0\refint\northwind.entitymodels.sqlite.dll
+C:\Users\jayde\Desktop\.Net\practicalapps\northwind.entitymodels.sqlite\obj\Debug\net8.0\northwind.entitymodels.sqlite.pdb
+C:\Users\jayde\Desktop\.Net\practicalapps\northwind.entitymodels.sqlite\obj\Debug\net8.0\ref\northwind.entitymodels.sqlite.dll
+C:\Users\jayde\Desktop\.Net\practicalapps\northwind.entitymodels.sqlite\bin\Debug\net8.0\northwind.entitymodels.sqlite.runtimeconfig.json
+C:\Users\jayde\Desktop\.Net\practicalapps\northwind.entitymodels.sqlite\obj\Debug\net8.0\northwind.entitymodels.sqlite.csproj.AssemblyReference.cache
+C:\Users\jayde\Desktop\.Net\practicalapps\northwind.entitymodels.sqlite\obj\Debug\net8.0\northwind.entitymodels.sqlite.genruntimeconfig.cache
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.EntityModels.Sqlite\bin\Debug\net8.0\Northwind.EntityModels.Sqlite.deps.json
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.EntityModels.Sqlite\bin\Debug\net8.0\Northwind.EntityModels.Sqlite.runtimeconfig.json
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.EntityModels.Sqlite\bin\Debug\net8.0\Northwind.EntityModels.Sqlite.dll
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.EntityModels.Sqlite\bin\Debug\net8.0\Northwind.EntityModels.Sqlite.pdb
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.EntityModels.Sqlite.csproj.AssemblyReference.cache
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.EntityModels.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.EntityModels.Sqlite.AssemblyInfoInputs.cache
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.EntityModels.Sqlite.AssemblyInfo.cs
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.EntityModels.Sqlite.csproj.CoreCompileInputs.cache
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.EntityModels.Sqlite.dll
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.EntityModels.Sqlite\obj\Debug\net8.0\refint\Northwind.EntityModels.Sqlite.dll
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.EntityModels.Sqlite.pdb
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.EntityModels.Sqlite.genruntimeconfig.cache
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.EntityModels.Sqlite\obj\Debug\net8.0\ref\Northwind.EntityModels.Sqlite.dll
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\northwind.entitymodels.sqlite\bin\Debug\net8.0\northwind.entitymodels.sqlite.deps.json
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\northwind.entitymodels.sqlite\bin\Debug\net8.0\northwind.entitymodels.sqlite.runtimeconfig.json
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\northwind.entitymodels.sqlite\bin\Debug\net8.0\northwind.entitymodels.sqlite.dll
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\northwind.entitymodels.sqlite\bin\Debug\net8.0\northwind.entitymodels.sqlite.pdb
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\northwind.entitymodels.sqlite\obj\Debug\net8.0\northwind.entitymodels.sqlite.csproj.AssemblyReference.cache
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\northwind.entitymodels.sqlite\obj\Debug\net8.0\northwind.entitymodels.sqlite.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\northwind.entitymodels.sqlite\obj\Debug\net8.0\northwind.entitymodels.sqlite.AssemblyInfoInputs.cache
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\northwind.entitymodels.sqlite\obj\Debug\net8.0\northwind.entitymodels.sqlite.AssemblyInfo.cs
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\northwind.entitymodels.sqlite\obj\Debug\net8.0\northwind.entitymodels.sqlite.csproj.CoreCompileInputs.cache
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\northwind.entitymodels.sqlite\obj\Debug\net8.0\northwind.entitymodels.sqlite.dll
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\northwind.entitymodels.sqlite\obj\Debug\net8.0\refint\northwind.entitymodels.sqlite.dll
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\northwind.entitymodels.sqlite\obj\Debug\net8.0\northwind.entitymodels.sqlite.pdb
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\northwind.entitymodels.sqlite\obj\Debug\net8.0\northwind.entitymodels.sqlite.genruntimeconfig.cache
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\northwind.entitymodels.sqlite\obj\Debug\net8.0\ref\northwind.entitymodels.sqlite.dll
+C:\Users\jayde\Documents\Northwind\northwind.entitymodels.sqlite\bin\Debug\net8.0\northwind.entitymodels.sqlite.deps.json
+C:\Users\jayde\Documents\Northwind\northwind.entitymodels.sqlite\bin\Debug\net8.0\northwind.entitymodels.sqlite.runtimeconfig.json
+C:\Users\jayde\Documents\Northwind\northwind.entitymodels.sqlite\bin\Debug\net8.0\northwind.entitymodels.sqlite.dll
+C:\Users\jayde\Documents\Northwind\northwind.entitymodels.sqlite\bin\Debug\net8.0\northwind.entitymodels.sqlite.pdb
+C:\Users\jayde\Documents\Northwind\northwind.entitymodels.sqlite\obj\Debug\net8.0\northwind.entitymodels.sqlite.csproj.AssemblyReference.cache
+C:\Users\jayde\Documents\Northwind\northwind.entitymodels.sqlite\obj\Debug\net8.0\northwind.entitymodels.sqlite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayde\Documents\Northwind\northwind.entitymodels.sqlite\obj\Debug\net8.0\northwind.entitymodels.sqlite.AssemblyInfoInputs.cache
+C:\Users\jayde\Documents\Northwind\northwind.entitymodels.sqlite\obj\Debug\net8.0\northwind.entitymodels.sqlite.AssemblyInfo.cs
+C:\Users\jayde\Documents\Northwind\northwind.entitymodels.sqlite\obj\Debug\net8.0\northwind.entitymodels.sqlite.csproj.CoreCompileInputs.cache
+C:\Users\jayde\Documents\Northwind\northwind.entitymodels.sqlite\obj\Debug\net8.0\northwind.entitymodels.sqlite.dll
+C:\Users\jayde\Documents\Northwind\northwind.entitymodels.sqlite\obj\Debug\net8.0\refint\northwind.entitymodels.sqlite.dll
+C:\Users\jayde\Documents\Northwind\northwind.entitymodels.sqlite\obj\Debug\net8.0\northwind.entitymodels.sqlite.pdb
+C:\Users\jayde\Documents\Northwind\northwind.entitymodels.sqlite\obj\Debug\net8.0\northwind.entitymodels.sqlite.genruntimeconfig.cache
+C:\Users\jayde\Documents\Northwind\northwind.entitymodels.sqlite\obj\Debug\net8.0\ref\northwind.entitymodels.sqlite.dll

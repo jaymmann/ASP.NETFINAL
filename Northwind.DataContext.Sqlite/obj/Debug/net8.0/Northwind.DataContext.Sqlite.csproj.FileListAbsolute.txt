@@ -1,0 +1,60 @@
+C:\Users\jayde\Desktop\.Net\practicalapps\Northwind.DataContext.Sqlite\bin\Debug\net8.0\Northwind.DataContext.Sqlite.deps.json
+C:\Users\jayde\Desktop\.Net\practicalapps\Northwind.DataContext.Sqlite\bin\Debug\net8.0\Northwind.DataContext.Sqlite.dll
+C:\Users\jayde\Desktop\.Net\practicalapps\Northwind.DataContext.Sqlite\bin\Debug\net8.0\Northwind.DataContext.Sqlite.pdb
+C:\Users\jayde\Desktop\.Net\practicalapps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.csproj.AssemblyReference.cache
+C:\Users\jayde\Desktop\.Net\practicalapps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayde\Desktop\.Net\practicalapps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.AssemblyInfoInputs.cache
+C:\Users\jayde\Desktop\.Net\practicalapps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.AssemblyInfo.cs
+C:\Users\jayde\Desktop\.Net\practicalapps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.csproj.CoreCompileInputs.cache
+C:\Users\jayde\Desktop\.Net\practicalapps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.dll
+C:\Users\jayde\Desktop\.Net\practicalapps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\refint\Northwind.DataContext.Sqlite.dll
+C:\Users\jayde\Desktop\.Net\practicalapps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.pdb
+C:\Users\jayde\Desktop\.Net\practicalapps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\ref\Northwind.DataContext.Sqlite.dll
+C:\Users\jayde\Desktop\.Net\practicalapps\Northwind.DataContext.Sqlite\bin\Debug\net8.0\Northwind.EntityModels.Sqlite.dll
+C:\Users\jayde\Desktop\.Net\practicalapps\Northwind.DataContext.Sqlite\bin\Debug\net8.0\Northwind.EntityModels.Sqlite.pdb
+C:\Users\jayde\Desktop\.Net\practicalapps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwin.446D235C.Up2Date
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.DataContext.Sqlite\bin\Debug\net8.0\Northwind.DataContext.Sqlite.deps.json
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.DataContext.Sqlite\bin\Debug\net8.0\Northwind.DataContext.Sqlite.dll
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.DataContext.Sqlite\bin\Debug\net8.0\Northwind.DataContext.Sqlite.pdb
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.DataContext.Sqlite\bin\Debug\net8.0\Northwind.EntityModels.Sqlite.dll
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.DataContext.Sqlite\bin\Debug\net8.0\Northwind.EntityModels.Sqlite.pdb
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.csproj.AssemblyReference.cache
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.AssemblyInfoInputs.cache
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.AssemblyInfo.cs
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.csproj.CoreCompileInputs.cache
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwin.446D235C.Up2Date
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.dll
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\refint\Northwind.DataContext.Sqlite.dll
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.pdb
+D:\My Work\Fiverr Project\Local\manningjm\practicalapps\Northwind.DataContext.Sqlite\obj\Debug\net8.0\ref\Northwind.DataContext.Sqlite.dll
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\Northwind.DataContext.Sqlite\bin\Debug\net8.0\Northwind.DataContext.Sqlite.deps.json
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\Northwind.DataContext.Sqlite\bin\Debug\net8.0\Northwind.DataContext.Sqlite.dll
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\Northwind.DataContext.Sqlite\bin\Debug\net8.0\Northwind.DataContext.Sqlite.pdb
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\Northwind.DataContext.Sqlite\bin\Debug\net8.0\northwind.entitymodels.sqlite.dll
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\Northwind.DataContext.Sqlite\bin\Debug\net8.0\northwind.entitymodels.sqlite.pdb
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.csproj.AssemblyReference.cache
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.AssemblyInfoInputs.cache
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.AssemblyInfo.cs
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.csproj.CoreCompileInputs.cache
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwin.446D235C.Up2Date
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.dll
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\Northwind.DataContext.Sqlite\obj\Debug\net8.0\refint\Northwind.DataContext.Sqlite.dll
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.pdb
+D:\My Work\Fiverr Project\Local\manningjm\Northwind\Northwind.DataContext.Sqlite\obj\Debug\net8.0\ref\Northwind.DataContext.Sqlite.dll
+C:\Users\jayde\Documents\Northwind\Northwind.DataContext.Sqlite\bin\Debug\net8.0\Northwind.DataContext.Sqlite.deps.json
+C:\Users\jayde\Documents\Northwind\Northwind.DataContext.Sqlite\bin\Debug\net8.0\Northwind.DataContext.Sqlite.dll
+C:\Users\jayde\Documents\Northwind\Northwind.DataContext.Sqlite\bin\Debug\net8.0\Northwind.DataContext.Sqlite.pdb
+C:\Users\jayde\Documents\Northwind\Northwind.DataContext.Sqlite\bin\Debug\net8.0\northwind.entitymodels.sqlite.dll
+C:\Users\jayde\Documents\Northwind\Northwind.DataContext.Sqlite\bin\Debug\net8.0\northwind.entitymodels.sqlite.pdb
+C:\Users\jayde\Documents\Northwind\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.csproj.AssemblyReference.cache
+C:\Users\jayde\Documents\Northwind\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayde\Documents\Northwind\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.AssemblyInfoInputs.cache
+C:\Users\jayde\Documents\Northwind\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.AssemblyInfo.cs
+C:\Users\jayde\Documents\Northwind\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.csproj.CoreCompileInputs.cache
+C:\Users\jayde\Documents\Northwind\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwin.446D235C.Up2Date
+C:\Users\jayde\Documents\Northwind\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.dll
+C:\Users\jayde\Documents\Northwind\Northwind.DataContext.Sqlite\obj\Debug\net8.0\refint\Northwind.DataContext.Sqlite.dll
+C:\Users\jayde\Documents\Northwind\Northwind.DataContext.Sqlite\obj\Debug\net8.0\Northwind.DataContext.Sqlite.pdb
+C:\Users\jayde\Documents\Northwind\Northwind.DataContext.Sqlite\obj\Debug\net8.0\ref\Northwind.DataContext.Sqlite.dll
